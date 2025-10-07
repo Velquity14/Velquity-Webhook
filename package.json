@@ -1,0 +1,24 @@
+{
+  "name": "velquity-webhook",
+  "version": "1.0.0",
+  "description": "Webhook backened for Velquity SMS Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velquity14/Velquity-Webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Velquity14/Velquity-Webhook/issues"
+  },
+  "homepage": "https://github.com/Velquity14/Velquity-Webhook#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^6.2.0"
+  }
+}
